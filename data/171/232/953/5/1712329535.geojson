@@ -94,11 +94,11 @@
         1477930283,
         1159284613
     ],
-    "wof:lastmodified":1583079216,
+    "wof:lastmodified":1601496163,
     "wof:name":"DL9363 (SFO-AMS)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-02",
+    "wof:repo":"sfomuseum-data-flights-2020-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

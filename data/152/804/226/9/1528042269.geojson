@@ -88,11 +88,11 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1580919108,
+    "wof:lastmodified":1601494840,
     "wof:name":"AS430 (PDX-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-02",
+    "wof:repo":"sfomuseum-data-flights-2020-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

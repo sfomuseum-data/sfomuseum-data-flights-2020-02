@@ -94,11 +94,11 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1580746402,
+    "wof:lastmodified":1601494922,
     "wof:name":"AM3558 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-02",
+    "wof:repo":"sfomuseum-data-flights-2020-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

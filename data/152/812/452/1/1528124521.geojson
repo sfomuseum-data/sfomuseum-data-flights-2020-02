@@ -88,11 +88,11 @@
         1159283957,
         1477930307
     ],
-    "wof:lastmodified":1581869498,
+    "wof:lastmodified":1601495298,
     "wof:name":"AV561 (SFO-SAL)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-02",
+    "wof:repo":"sfomuseum-data-flights-2020-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

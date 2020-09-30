@@ -94,11 +94,11 @@
         1477930301,
         1159285483
     ],
-    "wof:lastmodified":1582733649,
+    "wof:lastmodified":1601493936,
     "wof:name":"DL4362 (LHR-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-02",
+    "wof:repo":"sfomuseum-data-flights-2020-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

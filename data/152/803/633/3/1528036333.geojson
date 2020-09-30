@@ -88,11 +88,11 @@
         1159285015,
         1477930283
     ],
-    "wof:lastmodified":1580832761,
+    "wof:lastmodified":1601494931,
     "wof:name":"PR104 (MNL-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-02",
+    "wof:repo":"sfomuseum-data-flights-2020-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
