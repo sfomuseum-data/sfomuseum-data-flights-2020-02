@@ -90,10 +90,13 @@
       1159285227,
       1477930303
     ],
-    "wof:lastmodified": 1651271384,
+    "wof:lastmodified": 1717008533,
     "wof:name": "SY613 (SFO-PSP)",
     "wof:parent_id": 1477930303,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],

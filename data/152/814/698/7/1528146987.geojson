@@ -90,10 +90,13 @@
       1159285591,
       1477881731
     ],
-    "wof:lastmodified": 1651271531,
+    "wof:lastmodified": 1717008544,
     "wof:name": "WN1856 (SFO-MDW)",
     "wof:parent_id": 1477881731,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],

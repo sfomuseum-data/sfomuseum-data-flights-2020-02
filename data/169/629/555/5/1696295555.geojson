@@ -2,80 +2,87 @@
   "id": 1696295555,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-02-28",
-    "date:cessation_upper":"2020-02-28",
-    "date:inception_lower":"2020-02-28",
-    "date:inception_upper":"2020-02-28",
-    "edtf:cessation":"2020-02-28T19:58:00Z",
-    "edtf:inception":"2020-02-28T18:16:00Z",
-    "flysfo:actual_timestamp":1582934400,
-    "flysfo:airline":"DL",
-    "flysfo:date":"2020-02-28",
-    "flysfo:estimated_timestamp":1582920240,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"DL3044",
-    "flysfo:gate":"",
-    "flysfo:journey":"SLC-SFO",
-    "flysfo:scheduled_timestamp":1582920000,
-    "flysfo:timestamp":1582934400,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
-    "geom:latitude":39.20008,
-    "geom:longitude":-117.175754,
-    "iata:airline":"DL",
-    "icao:aircraft":"B738",
-    "icao:airline":"DAL",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159289871,
-    "sfomuseum:airline_id":1159284261,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102527363,
-    "sfomuseum:flight_id":"20200228-A-DAL-3044",
-    "sfomuseum:flight_number":[
-        "DAL3044",
-        "DL3044"
+    "date:cessation_lower": "2020-02-28",
+    "date:cessation_upper": "2020-02-28",
+    "date:inception_lower": "2020-02-28",
+    "date:inception_upper": "2020-02-28",
+    "edtf:cessation": "2020-02-28T19:58:00Z",
+    "edtf:inception": "2020-02-28T18:16:00Z",
+    "flysfo:actual_timestamp": 1582934400,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2020-02-28",
+    "flysfo:estimated_timestamp": 1582920240,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL3044",
+    "flysfo:gate": "",
+    "flysfo:journey": "SLC-SFO",
+    "flysfo:scheduled_timestamp": 1582920000,
+    "flysfo:timestamp": 1582934400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
+    "iata:airline": "DL",
+    "icao:aircraft": "B738",
+    "icao:airline": "DAL",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289871,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527363,
+    "sfomuseum:flight_id": "20200228-A-DAL-3044",
+    "sfomuseum:flight_number": [
+      "DAL3044",
+      "DL3044"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-path"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
     ],
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"128384130",
-        "swim:gufi":"KU62221602"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "128384130",
+      "swim:gufi": "KU62221602"
     },
-    "wof:country":"US",
-    "wof:created":1582992347,
-    "wof:geomhash":"24b8b627208edff0ed857058cce4fc5a",
-    "wof:hierarchy":[],
-    "wof:id":1696295555,
-    "wof:involves":[
-        102527513,
-        102527363,
-        1159284261,
-        -1,
-        1159289871
+    "wof:country": "US",
+    "wof:created": 1582992347,
+    "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
+    "wof:hierarchy": [
+      {
+        "event_id": 1696295555
+      }
     ],
-    "wof:lastmodified":1601494084,
-    "wof:name":"DL3044 (SLC-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-02",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1696295555,
+    "wof:involves": [
+      102527513,
+      102527363,
+      1159284261,
+      -1,
+      1159289871
+    ],
+    "wof:lastmodified": 1717008547,
+    "wof:name": "DL3044 (SLC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     37.61799,
     -111.980566,
     40.78217
-],
+  ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -90,10 +90,13 @@
       1159284261,
       1477930335
     ],
-    "wof:lastmodified": 1651271380,
+    "wof:lastmodified": 1717008532,
     "wof:name": "DL2984 (SFO-SEA)",
     "wof:parent_id": 1477930335,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],

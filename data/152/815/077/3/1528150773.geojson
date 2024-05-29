@@ -96,10 +96,13 @@
       1477930351,
       1159283813
     ],
-    "wof:lastmodified": 1651271496,
+    "wof:lastmodified": 1717008538,
     "wof:name": "EK3044 (SAN-SFO)",
     "wof:parent_id": 1477930351,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],

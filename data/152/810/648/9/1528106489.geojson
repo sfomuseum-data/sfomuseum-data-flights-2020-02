@@ -90,10 +90,13 @@
       1159284261,
       1477930331
     ],
-    "wof:lastmodified": 1651271451,
+    "wof:lastmodified": 1717008535,
     "wof:name": "DL2266 (ATL-SFO)",
     "wof:parent_id": 1477930331,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],

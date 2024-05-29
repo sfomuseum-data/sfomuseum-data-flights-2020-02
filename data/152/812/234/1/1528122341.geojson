@@ -2,80 +2,87 @@
   "id": 1528122341,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-02-15",
-    "date:cessation_upper":"2020-02-15",
-    "date:inception_lower":"2020-02-15",
-    "date:inception_upper":"2020-02-15",
-    "edtf:cessation":"2020-02-15T22:35:04Z",
-    "edtf:inception":"2020-02-15T11:43:00Z",
-    "flysfo:actual_timestamp":1581811200,
-    "flysfo:airline":"SK",
-    "flysfo:date":"2020-02-15",
-    "flysfo:estimated_timestamp":1581806340,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"SK935",
-    "flysfo:gate":"",
-    "flysfo:journey":"CPH-SFO",
-    "flysfo:scheduled_timestamp":1581806700,
-    "flysfo:timestamp":1581811200,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,37.61799,12.649581,55.627628",
-    "geom:latitude":46.622809,
-    "geom:longitude":-54.860681,
-    "iata:airline":"SK",
-    "icao:aircraft":"A343",
-    "icao:airline":"SAS",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159289429,
-    "sfomuseum:airline_id":1159285129,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102544207,
-    "sfomuseum:flight_id":"20200215-A-SAS-935",
-    "sfomuseum:flight_number":[
-        "SAS935",
-        "SK935"
+    "date:cessation_lower": "2020-02-15",
+    "date:cessation_upper": "2020-02-15",
+    "date:inception_lower": "2020-02-15",
+    "date:inception_upper": "2020-02-15",
+    "edtf:cessation": "2020-02-15T22:35:04Z",
+    "edtf:inception": "2020-02-15T11:43:00Z",
+    "flysfo:actual_timestamp": 1581811200,
+    "flysfo:airline": "SK",
+    "flysfo:date": "2020-02-15",
+    "flysfo:estimated_timestamp": 1581806340,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SK935",
+    "flysfo:gate": "",
+    "flysfo:journey": "CPH-SFO",
+    "flysfo:scheduled_timestamp": 1581806700,
+    "flysfo:timestamp": 1581811200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,12.649581,55.627628",
+    "geom:latitude": 46.622809000000004,
+    "geom:longitude": -54.860681,
+    "iata:airline": "SK",
+    "icao:aircraft": "A343",
+    "icao:airline": "SAS",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289429,
+    "sfomuseum:airline_id": 1159285129,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102544207,
+    "sfomuseum:flight_id": "20200215-A-SAS-935",
+    "sfomuseum:flight_number": [
+      "SAS935",
+      "SK935"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route",
-        "swim-path"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
     ],
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"127086581"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "127086581"
     },
-    "wof:country":"US",
-    "wof:created":1581869139,
-    "wof:geomhash":"5ce04c0590c166d926aa7a8325b74dd4",
-    "wof:hierarchy":[],
-    "wof:id":1528122341,
-    "wof:involves":[
-        102527513,
-        102544207,
-        1159285129,
-        -1,
-        1159289429
+    "wof:country": "US",
+    "wof:created": 1581869139,
+    "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
+    "wof:hierarchy": [
+      {
+        "event_id": 1528122341
+      }
     ],
-    "wof:lastmodified":1601495306,
-    "wof:name":"SK935 (CPH-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-02",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1528122341,
+    "wof:involves": [
+      102527513,
+      102544207,
+      1159285129,
+      -1,
+      1159289429
+    ],
+    "wof:lastmodified": 1717008539,
+    "wof:name": "SK935 (CPH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     37.61799,
     12.649581,
     55.627628
-],
+  ],
   "geometry": {"coordinates":[[12.649581,55.627628],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

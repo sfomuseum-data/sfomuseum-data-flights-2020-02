@@ -90,10 +90,13 @@
       1159283597,
       1477930465
     ],
-    "wof:lastmodified": 1651271318,
+    "wof:lastmodified": 1717008533,
     "wof:name": "AC8844 (YVR-SFO)",
     "wof:parent_id": 1477930465,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],

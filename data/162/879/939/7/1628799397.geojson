@@ -54,10 +54,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1651271261,
+    "wof:lastmodified": 1717008545,
     "wof:name": "AS9717 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],

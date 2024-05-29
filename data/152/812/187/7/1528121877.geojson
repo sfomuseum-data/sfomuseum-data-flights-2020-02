@@ -54,10 +54,13 @@
       1159283495,
       -1
     ],
-    "wof:lastmodified": 1651271442,
+    "wof:lastmodified": 1717008538,
     "wof:name": "EI147 (DUB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],
